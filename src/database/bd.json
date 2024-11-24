@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nasrullah Mansur",
+      "username": "Bret",
+      "email": "Sincere@april.biz"
+    },
+    {
+      "id": "2",
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv"
+    },
+    {
+      "id": "3",
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net"
+    },
+    {
+      "id": "4",
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org"
+    },
+    {
+      "id": "5",
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca"
+    },
+    {
+      "id": "6",
+      "name": "Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info"
+    },
+    {
+      "id": "7",
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz"
+    },
+    {
+      "id": "8",
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me"
+    },
+    {
+      "id": "9",
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io"
+    },
+    {
+      "id": "10",
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz"
+    },
+    {
+      "id": "11",
+      "name": "Leanne Graham",
+      "username": "BretG",
+      "email": "leanne.graham@example.com"
+    },
+    {
+      "id": "12",
+      "name": "Alexander Pierce",
+      "username": "AlexP",
+      "email": "alex.pierce@domain.com"
+    },
+    {
+      "id": "13",
+      "name": "Natalie Portman",
+      "username": "NPortman",
+      "email": "natalie.portman@mailbox.org"
+    },
+    {
+      "id": "14",
+      "name": "Chris Hemsworth",
+      "username": "ChrisH",
+      "email": "chris.hemsworth@supermail.com"
+    },
+    {
+      "id": "15",
+      "name": "Robert Downey",
+      "username": "RDown",
+      "email": "robert.downey@starkindustries.com"
+    },
+    {
+      "id": "16",
+      "name": "Emma Watson",
+      "username": "EWats",
+      "email": "emma.watson@magicworld.com"
+    },
+    {
+      "id": "17",
+      "name": "Tom Hanks",
+      "username": "THanks",
+      "email": "tom.hanks@runforest.com"
+    },
+    {
+      "id": "18",
+      "name": "Morgan Freeman",
+      "username": "MFreen",
+      "email": "morgan.freeman@voiceover.net"
+    },
+    {
+      "id": "19",
+      "name": "Angelina Jolie",
+      "username": "AJolie",
+      "email": "angelina.jolie@hollywood.com"
+    },
+    {
+      "id": "20",
+      "name": "Brad Pitt",
+      "username": "BPitt",
+      "email": "brad.pitt@movielife.com"
+    },
+    {
+      "id": "21",
+      "name": "Scarlett Johansson",
+      "username": "ScarlettJ",
+      "email": "scarlett.johansson@actionmovies.com"
+    },
+    {
+      "id": "22",
+      "name": "Chris Evans",
+      "username": "CEvans",
+      "email": "chris.evans@america.com"
+    },
+    {
+      "id": "23",
+      "name": "Mark Ruffalo",
+      "username": "MRuffalo",
+      "email": "mark.ruffalo@greenmail.com"
+    },
+    {
+      "id": "24",
+      "name": "Jeremy Renner",
+      "username": "JR",
+      "email": "jeremy.renner@arrows.net"
+    },
+    {
+      "id": "25",
+      "name": "Paul Rudd",
+      "username": "PRudd",
+      "email": "paul.rudd@quantumworld.com"
+    },
+    {
+      "id": "26",
+      "name": "Elizabeth Olsen",
+      "username": "EOlsen",
+      "email": "elizabeth.olsen@magicmail.com"
+    },
+    {
+      "id": "27",
+      "name": "Chadwick Boseman",
+      "username": "CBoseman",
+      "email": "chadwick.boseman@wakanda.com"
+    },
+    {
+      "id": "28",
+      "name": "Benedict Cumberbatch",
+      "username": "BCumberbatch",
+      "email": "benedict.cumberbatch@strangeworld.com"
+    },
+    {
+      "id": "29",
+      "name": "Tom Holland",
+      "username": "THolland",
+      "email": "tom.holland@spiderweb.com"
+    },
+    {
+      "id": "30",
+      "name": "Zoe Saldana",
+      "username": "ZSaldana",
+      "email": "zoe.saldana@galaxy.com"
+    },
+    {
+      "id": "31",
+      "name": "Vin Diesel",
+      "username": "VDiesel",
+      "email": "vin.diesel@grootmail.com"
+    },
+    {
+      "id": "32",
+      "name": "Dave Bautista",
+      "username": "DBautista",
+      "email": "dave.bautista@draxforce.com"
+    },
+    {
+      "id": "33",
+      "name": "Karen Gillan",
+      "username": "KGillan",
+      "email": "karen.gillan@nebula.com"
+    },
+    {
+      "id": "34",
+      "name": "Josh Brolin",
+      "username": "JBrolin",
+      "email": "josh.brolin@titan.net"
+    },
+    {
+      "id": "35",
+      "name": "Chris Pratt",
+      "username": "CPratt",
+      "email": "chris.pratt@guardians.net"
+    },
+    {
+      "id": "36",
+      "name": "Samuel Jackson",
+      "username": "SJax",
+      "email": "samuel.jackson@avengers.org"
+    }
+  ]
+}
